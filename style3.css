@@ -1,0 +1,55 @@
+*{
+    font-family: 'Courier New';
+    text-align: center;
+    background-color: rgb(172, 233, 213);
+} 
+
+h2{
+    color: #1b74e4;
+}
+
+span button{
+    background-color: aqua;
+    
+}
+#search{
+    background-color: aquamarine;
+    
+    color: black;
+}
+ input{
+    color: rgb(209, 209, 218);
+    background-color: black;
+ }
+
+button:hover{ 
+    background-color: blueviolet;
+    color: white;
+}
+
+button:active{
+    background-color: greenyellow;
+   
+    color:black;
+}
+
+#maintopic{
+    color: blue;
+}
+
+h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h5{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.para{
+    background-color: cornflowerblue;
+    
+    color: azure;
+}
+div button{
+    background-color: purple;
+    color: azure;
+}
